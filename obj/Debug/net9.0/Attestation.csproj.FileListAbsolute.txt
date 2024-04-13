@@ -1,0 +1,15 @@
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\bin\Debug\net9.0\Attestation.exe
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\bin\Debug\net9.0\Attestation.deps.json
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\bin\Debug\net9.0\Attestation.runtimeconfig.json
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\bin\Debug\net9.0\Attestation.dll
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\bin\Debug\net9.0\Attestation.pdb
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\Attestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\Attestation.AssemblyInfoInputs.cache
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\Attestation.AssemblyInfo.cs
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\Attestation.csproj.CoreCompileInputs.cache
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\Attestation.sourcelink.json
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\Attestation.dll
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\refint\Attestation.dll
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\Attestation.pdb
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\Attestation.genruntimeconfig.cache
+C:\Users\blokh\Desktop\Новая папка (2)\Attestation\obj\Debug\net9.0\ref\Attestation.dll
