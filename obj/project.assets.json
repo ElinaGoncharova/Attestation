@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blokh\\Desktop\\Новая папка (2)\\Attestation\\Attestation.csproj",
+      "projectUniqueName": "C:\\Users\\blokh\\Desktop\\Att\\Attestation\\Attestation.csproj",
       "projectName": "Attestation",
-      "projectPath": "C:\\Users\\blokh\\Desktop\\Новая папка (2)\\Attestation\\Attestation.csproj",
+      "projectPath": "C:\\Users\\blokh\\Desktop\\Att\\Attestation\\Attestation.csproj",
       "packagesPath": "C:\\Users\\blokh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blokh\\Desktop\\Новая папка (2)\\Attestation\\obj\\",
+      "outputPath": "C:\\Users\\blokh\\Desktop\\Att\\Attestation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\blokh\\AppData\\Roaming\\NuGet\\NuGet.Config"
